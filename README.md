@@ -7,10 +7,10 @@
 
 Work:
 
-1.An all-in-one campus app designed for students—bringing everything you need into one place. Access organized notes, connect with fellow students in real-time, and get instant help from an AI assistant. Study smarter, collaborate better, and stay ahead—all within a single platform.
+An all-in-one campus app designed for students—bringing everything you need into one place. Access organized notes, connect with fellow students in real-time, and get instant help from an AI assistant. Study smarter, collaborate better, and stay ahead—all within a single platform.
 
 
-[campushive02y.netlify.app](campushive02y.netlify.app)
+1.[campushive02y.netlify.app](campushive02y.netlify.app)
 
 2.[dormsphere.netlify.app](https://dormsphere.netlify.app/)
 
